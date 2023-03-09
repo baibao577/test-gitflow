@@ -1,4 +1,5 @@
 function plus(a, b) {
+  // A
   return a + b;
 }
 
