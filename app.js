@@ -3,6 +3,6 @@ function plus(a, b) {
 }
 
 function minus(a, b) {
-  console.log("Hello Jane")
+  console.log("Hello Aof")
   return a - b;
 }
