@@ -4,10 +4,12 @@ function plus(a, b) {
 }
 
 function minus(a, b) {
+  // B
   return a - b;
 }
 
 function minus(a, b) {
+  // C
   return a - b;
 }
 
